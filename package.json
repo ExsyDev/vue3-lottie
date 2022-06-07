@@ -1,6 +1,7 @@
 {
   "name": "vue3-lottie-exsydev",
   "private": "true",
+  "version": "1.0",
   "scripts": {
     "build": "pnpm build --filter vue3-lottie"
   }
