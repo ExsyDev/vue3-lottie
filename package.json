@@ -1,5 +1,5 @@
 {
-  "name": "vue3-lottie-monorepo",
+  "name": "vue3-lottie-exsydev",
   "private": "true",
   "scripts": {
     "build": "pnpm build --filter vue3-lottie"
